@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2619748019E3C473005AA5AB /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 2619747519E3C473005AA5AB /* circle.png */; };
+		2619748119E3C473005AA5AB /* circle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2619747619E3C473005AA5AB /* circle@2x.png */; };
+		2619748219E3C473005AA5AB /* meicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2619747719E3C473005AA5AB /* meicon.png */; };
+		2619748319E3C473005AA5AB /* MenuBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2619747819E3C473005AA5AB /* MenuBackground@2x.png */; };
+		2619748419E3C473005AA5AB /* pullrefresh.aif in Resources */ = {isa = PBXBuildFile; fileRef = 2619747919E3C473005AA5AB /* pullrefresh.aif */; };
+		2619748519E3C473005AA5AB /* XHPathCover.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619747B19E3C473005AA5AB /* XHPathCover.m */; };
+		2619748619E3C473005AA5AB /* XHSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619747D19E3C473005AA5AB /* XHSoundManager.m */; };
+		2619748719E3C473005AA5AB /* XHWaterDropRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619747F19E3C473005AA5AB /* XHWaterDropRefresh.m */; };
+		2619748D19E3CA08005AA5AB /* ParallaxTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619748C19E3CA08005AA5AB /* ParallaxTableViewController.m */; };
+		2619749019E3CCFE005AA5AB /* HUAJIENewsCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619748F19E3CCFE005AA5AB /* HUAJIENewsCell.m */; };
+		2619749319E3E9A3005AA5AB /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2619749219E3E9A3005AA5AB /* TestViewController.m */; };
 		261FF47819E24DAC00FFA838 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 261FF47719E24DAC00FFA838 /* main.m */; };
 		261FF47B19E24DAC00FFA838 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 261FF47A19E24DAC00FFA838 /* AppDelegate.m */; };
 		261FF47E19E24DAC00FFA838 /* Yahoo_Digest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 261FF47C19E24DAC00FFA838 /* Yahoo_Digest.xcdatamodeld */; };
@@ -28,6 +39,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2619747519E3C473005AA5AB /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
+		2619747619E3C473005AA5AB /* circle@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circle@2x.png"; sourceTree = "<group>"; };
+		2619747719E3C473005AA5AB /* meicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meicon.png; sourceTree = "<group>"; };
+		2619747819E3C473005AA5AB /* MenuBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MenuBackground@2x.png"; sourceTree = "<group>"; };
+		2619747919E3C473005AA5AB /* pullrefresh.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = pullrefresh.aif; sourceTree = "<group>"; };
+		2619747A19E3C473005AA5AB /* XHPathCover.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHPathCover.h; sourceTree = "<group>"; };
+		2619747B19E3C473005AA5AB /* XHPathCover.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHPathCover.m; sourceTree = "<group>"; };
+		2619747C19E3C473005AA5AB /* XHSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHSoundManager.h; sourceTree = "<group>"; };
+		2619747D19E3C473005AA5AB /* XHSoundManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHSoundManager.m; sourceTree = "<group>"; };
+		2619747E19E3C473005AA5AB /* XHWaterDropRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHWaterDropRefresh.h; sourceTree = "<group>"; };
+		2619747F19E3C473005AA5AB /* XHWaterDropRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHWaterDropRefresh.m; sourceTree = "<group>"; };
+		2619748B19E3CA08005AA5AB /* ParallaxTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParallaxTableViewController.h; sourceTree = "<group>"; };
+		2619748C19E3CA08005AA5AB /* ParallaxTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParallaxTableViewController.m; sourceTree = "<group>"; };
+		2619748E19E3CCFE005AA5AB /* HUAJIENewsCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HUAJIENewsCell.h; sourceTree = "<group>"; };
+		2619748F19E3CCFE005AA5AB /* HUAJIENewsCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HUAJIENewsCell.m; sourceTree = "<group>"; };
+		2619749119E3E9A3005AA5AB /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		2619749219E3E9A3005AA5AB /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		261FF47219E24DAC00FFA838 /* Yahoo_Digest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Yahoo_Digest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		261FF47619E24DAC00FFA838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		261FF47719E24DAC00FFA838 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -62,6 +90,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2619747319E3C473005AA5AB /* PathCover */ = {
+			isa = PBXGroup;
+			children = (
+				2619747419E3C473005AA5AB /* Resources */,
+				2619747A19E3C473005AA5AB /* XHPathCover.h */,
+				2619747B19E3C473005AA5AB /* XHPathCover.m */,
+				2619747C19E3C473005AA5AB /* XHSoundManager.h */,
+				2619747D19E3C473005AA5AB /* XHSoundManager.m */,
+				2619747E19E3C473005AA5AB /* XHWaterDropRefresh.h */,
+				2619747F19E3C473005AA5AB /* XHWaterDropRefresh.m */,
+			);
+			path = PathCover;
+			sourceTree = "<group>";
+		};
+		2619747419E3C473005AA5AB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2619747519E3C473005AA5AB /* circle.png */,
+				2619747619E3C473005AA5AB /* circle@2x.png */,
+				2619747719E3C473005AA5AB /* meicon.png */,
+				2619747819E3C473005AA5AB /* MenuBackground@2x.png */,
+				2619747919E3C473005AA5AB /* pullrefresh.aif */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		261FF46919E24DAC00FFA838 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +137,9 @@
 		261FF47419E24DAC00FFA838 /* Yahoo_Digest */ = {
 			isa = PBXGroup;
 			children = (
+				2619748E19E3CCFE005AA5AB /* HUAJIENewsCell.h */,
+				2619748F19E3CCFE005AA5AB /* HUAJIENewsCell.m */,
+				2619747319E3C473005AA5AB /* PathCover */,
 				261FF47919E24DAC00FFA838 /* AppDelegate.h */,
 				261FF47A19E24DAC00FFA838 /* AppDelegate.m */,
 				261FF47F19E24DAC00FFA838 /* ViewController.h */,
@@ -92,6 +149,10 @@
 				261FF48719E24DAC00FFA838 /* LaunchScreen.xib */,
 				261FF47C19E24DAC00FFA838 /* Yahoo_Digest.xcdatamodeld */,
 				261FF47519E24DAC00FFA838 /* Supporting Files */,
+				2619748B19E3CA08005AA5AB /* ParallaxTableViewController.h */,
+				2619748C19E3CA08005AA5AB /* ParallaxTableViewController.m */,
+				2619749119E3E9A3005AA5AB /* TestViewController.h */,
+				2619749219E3E9A3005AA5AB /* TestViewController.m */,
 			);
 			path = Yahoo_Digest;
 			sourceTree = "<group>";
@@ -203,8 +264,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				261FF48419E24DAC00FFA838 /* Main.storyboard in Resources */,
+				2619748419E3C473005AA5AB /* pullrefresh.aif in Resources */,
+				2619748119E3C473005AA5AB /* circle@2x.png in Resources */,
+				2619748319E3C473005AA5AB /* MenuBackground@2x.png in Resources */,
+				2619748219E3C473005AA5AB /* meicon.png in Resources */,
 				261FF48919E24DAC00FFA838 /* LaunchScreen.xib in Resources */,
 				261FF48619E24DAC00FFA838 /* Images.xcassets in Resources */,
+				2619748019E3C473005AA5AB /* circle.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,8 +289,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				261FF47B19E24DAC00FFA838 /* AppDelegate.m in Sources */,
+				2619748619E3C473005AA5AB /* XHSoundManager.m in Sources */,
+				2619749019E3CCFE005AA5AB /* HUAJIENewsCell.m in Sources */,
+				2619748719E3C473005AA5AB /* XHWaterDropRefresh.m in Sources */,
+				2619749319E3E9A3005AA5AB /* TestViewController.m in Sources */,
 				261FF47819E24DAC00FFA838 /* main.m in Sources */,
+				2619748D19E3CA08005AA5AB /* ParallaxTableViewController.m in Sources */,
 				261FF48119E24DAC00FFA838 /* ViewController.m in Sources */,
+				2619748519E3C473005AA5AB /* XHPathCover.m in Sources */,
 				261FF47E19E24DAC00FFA838 /* Yahoo_Digest.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -350,6 +422,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Yahoo_Digest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -360,6 +433,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Yahoo_Digest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -418,6 +492,7 @@
 				261FF49A19E24DAC00FFA838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		261FF49B19E24DAC00FFA838 /* Build configuration list for PBXNativeTarget "Yahoo_DigestTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +501,7 @@
 				261FF49D19E24DAC00FFA838 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

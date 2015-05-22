@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController : UIViewController<UIScrollViewDelegate>
+{
+    BOOL hidden;
+    BOOL isAnimating;
+    CGFloat _lastPosition;
+}
 
 @end
 
